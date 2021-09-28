@@ -1,0 +1,5 @@
+panel
+pandas
+matplotlib
+seaborn
+param
